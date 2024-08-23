@@ -12,6 +12,8 @@ public interface A {
     	System.out.println(b2);
     	int a=10;
     	int b10=89;
+    	System.out.println(b10);
+    	System.out.println(a);
     int	aa=a+b10;;
     	return b2;
     	};

@@ -36,6 +36,7 @@ public class GenericLamda {
       I3<A> i3=(t1)->System.out.println(t1);
     //  I3<D> i4= (t1)->System.out.println(t1);   D is not a subtype of A so we error.
       i3.m1(new B());
+      
 	}
 
 }
